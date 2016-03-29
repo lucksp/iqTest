@@ -33,5 +33,5 @@ function iqTest(numbers){
   		return odds[0]
   	}
 }
-// iqTest("2 4 7 8 10")
-iqTest("1 2 1 1")
+iqTest("2 4 7 8 10")
+// iqTest("1 2 1 1")
